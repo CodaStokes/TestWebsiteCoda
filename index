@@ -1,0 +1,23 @@
+    <!DOCTYPE html>
+     <head>
+     <style>
+     body {
+         text-align: center;
+         background: url("https://s-media-cache-ak0.pinimg.com/736x/b4/ea/42/b4ea420153c760f0af0dc4495e8941a7.jpg");
+         color: black;
+         font-family: Helvetica;
+         background-size:cover;
+         background-position: center center;
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+     }
+     </style>
+     </head>
+   <body>
+<img src=http://www.granini.com/data/images/fruit_images/full/guava.png>
+<h1>Coda Stokes</h1>
+<p> I'm somewhat adept at coding and am currently programming a game in Java in my free time. I really enjoy working on computers and am currently learning and researching how to do more work with my computers as well as how to fix and apply my knowledge to everyday life.</p>
+<input type="email" placeholder="Email"> 
+<input type="submit">
+</body> 
+
